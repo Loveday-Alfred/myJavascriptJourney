@@ -27,3 +27,5 @@ const restaurant = {
     },
   },
 };
+
+const [first, second] = restaurant;
